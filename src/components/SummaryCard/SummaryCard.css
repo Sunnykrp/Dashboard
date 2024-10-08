@@ -1,0 +1,24 @@
+.summary-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .icon {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #ff6384;
+  }
+  
+  .details h4 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .details p {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  

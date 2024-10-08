@@ -1,0 +1,26 @@
+.recent-projects {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .recent-projects h4 {
+    margin-bottom: 20px;
+  }
+  
+  .recent-projects table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .recent-projects th, .recent-projects td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .recent-projects th {
+    background-color: #f9f9f9;
+  }
+  
